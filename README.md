@@ -1,6 +1,4 @@
 # Misssy-RIvera
-using namespace std;
-int main()
 {
     float numOne, numTwo, res;
     int choice;
